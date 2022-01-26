@@ -13,7 +13,7 @@
   "author": "Ranz Botz",
   "license": "GPL-3.0",
   "dependencies": {
-    "@adiwajshing/baileys": "github:melcanz/baileys",
+    "@adiwajshing/baileys": "^3.5.3",
     "@develoka/angka-terbilang-js": "^1.4.2",
     "async": "^2.4.1",
     "awesome-phonenumber": "^2.48.0",
