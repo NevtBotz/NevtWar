@@ -89,11 +89,11 @@
   },
   "repository": {
     "type": "git",
-    "url": " "
+    "url": "https://github.com/Nevt3/NevtWar.git"
   },
   "bugs": {
-    "url": " "
+    "url": "https://github.com/Nevt3/NevtWar/issues"
   },
-  "homepage": " ",
+  "homepage": "https://github.com/Nevt3/NevtWar#readme",
   "devDependencies": {}
 }
