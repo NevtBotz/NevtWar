@@ -1,26 +1,19 @@
 {
-  "name": "KurrXd",
-  "version": "0.0.1",
-  "description": "KurrXd",
-  "main": "node index",
-  "directories": {
-    "lib": "lib"
-  },
-  "scripts": {
+  "name": "Nevt",
+  "type": "Baileys",
+  "version": "3.5.2",
+  "description": "Bot War Simple",
+    "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index"
+    "start": "node index.js"
   },
   "keywords": [
-    "termux",
-    "whatsapp",
-    "bot",
-    "whatsapp",
     "bot"
   ],
-  "author": "KurrXd",
-  "license": "ISC",
+  "author": "Nevt",
+  "license": "GPL-3.0",
   "dependencies": {
-    "@adiwajshing/baileys": "^3.5.3",
+    "@adiwajshing/baileys": "github:melcanz/baileys",
     "@develoka/angka-terbilang-js": "^1.4.2",
     "async": "^2.4.1",
     "awesome-phonenumber": "^2.48.0",
@@ -91,13 +84,16 @@
     "twitter-url-direct": "^1.0.1",
     "yt-search": "^2.7.6"
   },
-  "devDependencies": {},
+  "directories": {
+    "lib": "lib"
+  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dcode-denpa/bitch-boot.git"
+    "url": " "
   },
   "bugs": {
-    "url": "https://github.com/dcode-denpa/bitch-boot/issues"
+    "url": " "
   },
-  "homepage": "https://github.com/dcode-denpa/bitch-boot#readme"
+  "homepage": " ",
+  "devDependencies": {}
 }
